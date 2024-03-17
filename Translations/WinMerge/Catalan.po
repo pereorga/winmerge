@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.winmerge.org/\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Pere Orga <pere@orga.cat>\n"
 "Language-Team: Catalan <winmerge-translate@lists.sourceforge.net>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: ../../Src\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. LANGUAGE, SUBLANGUAGE
 #, c-format
@@ -35,13 +35,13 @@ msgid "Copy from Middle"
 msgstr "Copia del mig"
 
 msgid "Copy fro&m Right\tAlt+Shift+Left"
-msgstr "Copia des de la dret&a\tAlt+Maj+Esquerra"
+msgstr "Copia des de la dret&a\tAlt+Màj.+Esquerra"
 
 msgid "Cop&y to Left\tAlt+Left"
 msgstr "Copia a l'&esquerra\tAlt+Esquerra"
 
 msgid "Copy &from Left\tAlt+Shift+Right"
-msgstr "Copia des de l'es&querra\tAlt+Maj+Dreta"
+msgstr "Copia des de l'es&querra\tAlt+Màj.+Dreta"
 
 msgid "Copy Selected Line(s) to Middle"
 msgstr "Copia les línies seleccionades al mig"
@@ -100,10 +100,10 @@ msgid "< Empty >"
 msgstr "< Buit >"
 
 msgid "&Go to...\tCtrl+G"
-msgstr "&Vés a...\tControl+G"
+msgstr "&Ves a...\tControl+G"
 
 msgid "Go to Moved Line Between Left and Middle\tCtrl+Shift+G"
-msgstr "Ves a la línia desplaçada entre l'esquerra i el mig\tControl+Maj+G"
+msgstr "Ves a la línia desplaçada entre l'esquerra i el mig\tControl+Màj.+G"
 
 msgid "Go to Moved Line Between Middle and Right\tCtrl+Alt+G"
 msgstr "Ves a la línia desplaçada entre el mig i la dreta\tControl+Alt+G"
@@ -234,7 +234,7 @@ msgid "&Horizontal Wipe"
 msgstr "Superposa h&oritzontalment"
 
 msgid "Rectangle &Select"
-msgstr "&Seleccio de rectangle"
+msgstr "&Selecció de rectangle"
 
 #, c-format
 msgid "&Set Background Color"
@@ -256,7 +256,7 @@ msgid "&Full Size Screenshots"
 msgstr ""
 
 msgid "&HTMLs"
-msgstr ""
+msgstr "&HTMLs"
 
 msgid "&Texts"
 msgstr ""
@@ -292,7 +292,7 @@ msgid "Clear &Browsing Data"
 msgstr ""
 
 msgid "&Disk Cache"
-msgstr ""
+msgstr "Memòria cau del &disc"
 
 msgid "&Cookies"
 msgstr ""
@@ -327,7 +327,7 @@ msgid "&Image"
 msgstr "&Imatge"
 
 msgid "&Webpage"
-msgstr ""
+msgstr "Pàgina &web"
 
 #, c-format
 msgid "New (&3 panes)"
@@ -338,7 +338,7 @@ msgid "&Open...\tCtrl+O"
 msgstr "&Obre...\tControl+O"
 
 msgid "Open Conflic&t File..."
-msgstr "Obre el fitxer amb conflic&te..."
+msgstr "Obre un fitxer amb conflic&tes..."
 
 msgid "Open C&lipboard"
 msgstr "Obre el porta-reta&lls"
@@ -392,7 +392,7 @@ msgstr "&Gran"
 
 #, c-format
 msgid "&Huge"
-msgstr "&Immens"
+msgstr "&Immensa"
 
 #, c-format
 msgid "&Status Bar"
@@ -592,7 +592,7 @@ msgid "&Different Subfolders"
 msgstr ""
 
 msgid "&Identical Subfolders"
-msgstr ""
+msgstr "Subcarpetes &idèntiques"
 
 #, c-format
 msgid "&Collapse All Subfolders"
@@ -769,7 +769,7 @@ msgstr "Subst&itueix...\tControl+H"
 
 #, c-format
 msgid "&Marker...\tCtrl+Shift+M"
-msgstr "&Marcadors...\tControl+Maj+M"
+msgstr "&Marcadors...\tControl+Màj.+M"
 
 #, c-format
 msgid "Advanced"
@@ -777,7 +777,7 @@ msgstr "Avançat"
 
 #, c-format
 msgid "&Copy With Line Numbers\tCtrl+Shift+C"
-msgstr "&Copia amb els números de línia\tControl+Maj+C"
+msgstr "&Copia amb els números de línia\tControl+Màj.+C"
 
 #, c-format
 msgid "&Bookmarks"
@@ -793,7 +793,7 @@ msgstr "&Següent punt d'interès\tF2"
 
 #, c-format
 msgid "&Previous bookmark\tShift+F2"
-msgstr "&Punt d'interès previ\tShift+F2"
+msgstr "&Punt d'interès previ\tMàj.+F2"
 
 #, c-format
 msgid "&Clear All Bookmarks"
@@ -886,11 +886,11 @@ msgstr "Subfinestra d'&ubicació"
 
 #, c-format
 msgid "Ne&xt Conflict\tAlt+Shift+Down"
-msgstr "&Conflicte següent\tAlt+Maj+Avall"
+msgstr "&Conflicte següent\tAlt+Màj.+Avall"
 
 #, c-format
 msgid "Pre&vious Conflict\tAlt+Shift+Up"
-msgstr "Con&flicte anterior\tAlt+Maj+Amunt"
+msgstr "Con&flicte anterior\tAlt+Màj.+Amunt"
 
 #, c-format
 msgid "A&dvanced"
@@ -902,7 +902,7 @@ msgstr "Diferència següent entre l'esquerra i el mig\tAlt+1"
 
 #, c-format
 msgid "Previous Difference Between Left And Middle\tAlt+Shift+1"
-msgstr "Diferència anterior entre l'esquerra i el mig\tAlt+Maj+1"
+msgstr "Diferència anterior entre l'esquerra i el mig\tAlt+Màj.+1"
 
 #, c-format
 msgid "Next Difference Between Left and Right\tAlt+2"
@@ -910,7 +910,7 @@ msgstr "Diferència següent entre l'esquerra i la dreta\tAlt+2"
 
 #, c-format
 msgid "Previous Difference Between Left And Right\tAlt+Shift+2"
-msgstr "Diferència anterior entre l'esquerra i la dreta\tAlt+Maj+2"
+msgstr "Diferència anterior entre l'esquerra i la dreta\tAlt+Màj.+2"
 
 #, c-format
 msgid "Next Difference Between Middle and Right\tAlt+3"
@@ -918,7 +918,7 @@ msgstr "Diferència següent entre el mig i la dreta\tAlt+3"
 
 #, c-format
 msgid "Previous Difference Between Middle And Right\tAlt+Shift+3"
-msgstr "Diferència anterior entre el mig i la dreta\tAlt+Maj+3"
+msgstr "Diferència anterior entre el mig i la dreta\tAlt+Màj.+3"
 
 #, c-format
 msgid "Next Left Only Difference\tAlt+7"
@@ -926,7 +926,7 @@ msgstr "Diferència següent de només l'esquerra\tAlt+7"
 
 #, c-format
 msgid "Previous Left Only Difference\tAlt+Shift+7"
-msgstr "Diferència anterior de només l'esquerra\tAlt+Maj+7"
+msgstr "Diferència anterior de només l'esquerra\tAlt+Màj.+7"
 
 #, c-format
 msgid "Next Middle Only Difference\tAlt+8"
@@ -934,7 +934,7 @@ msgstr "Diferència següent de només el mig\tAlt+8"
 
 #, c-format
 msgid "Previous Middle Only Difference\tAlt+Shift+8"
-msgstr "Diferència anterior de només el mig\tAlt+Maj+8"
+msgstr "Diferència anterior de només el mig\tAlt+Màj.+8"
 
 #, c-format
 msgid "Next Right Only Difference\tAlt+9"
@@ -942,7 +942,7 @@ msgstr "Diferència següent de només la dreta\tAlt+9"
 
 #, c-format
 msgid "Previous Right Only Difference\tAlt+Shift+9"
-msgstr "Diferència anterior de només la dreta\tAlt+Maj+9"
+msgstr "Diferència anterior de només la dreta\tAlt+Màj.+9"
 
 msgid "Copy from &Left to"
 msgstr "Copia de l'&esquerra a"
@@ -976,11 +976,11 @@ msgstr "Copia les línies seleccionades de la dreta a"
 
 #, c-format
 msgid "Copy from Left\tAlt+Shift+Right"
-msgstr "Copia des de l'esquerra\tAlt+Shift+Dreta"
+msgstr "Copia des de l'esquerra\tAlt+Màj.+Dreta"
 
 #, c-format
 msgid "Copy from Right\tAlt+Shift+Left"
-msgstr "Copia des de la dreta\tAlt+Shift+Esquerra"
+msgstr "Copia des de la dreta\tAlt+Màj.+Esquerra"
 
 msgid "C&opy to Right and Advance\tCtrl+Alt+Right"
 msgstr "Copia a la dreta i a&vança\tControl+Alt+Dreta"
@@ -1239,7 +1239,7 @@ msgid "Prediffer Settings"
 msgstr "Opcions de prediferenciació"
 
 msgid "G&o to Diff"
-msgstr "Vé&s a la diferència"
+msgstr "Ve&s a la diferència"
 
 #, c-format
 msgid "&No Moved Blocks"
@@ -1293,7 +1293,7 @@ msgstr "&Inclou-hi les subcarpetes"
 
 #, c-format
 msgid "&Compare method:"
-msgstr "Mètode de &Comparació:"
+msgstr "Mètode de &comparació:"
 
 #, c-format
 msgid "Full Contents"
@@ -1321,7 +1321,7 @@ msgstr "Mida"
 
 #, c-format
 msgid "&Load Project..."
-msgstr "Carrega un projecte..."
+msgstr "Carrega un pr&ojecte..."
 
 #, c-format
 msgid "About WinMerge"
@@ -1344,7 +1344,7 @@ msgstr "Selecciona fitxers o directoris"
 
 #, c-format
 msgid "&1st File or Folder"
-msgstr "1er Fitxer o directori"
+msgstr "1er fitxer o directori"
 
 #, c-format
 msgid "Re&ad-only"
@@ -1433,7 +1433,7 @@ msgstr "T&anca les finestres amb 'Esc':"
 
 #, c-format
 msgid "&Automatically verify paths in Open-dialog"
-msgstr "&Verifica els camí automàticament al diàleg d'Obrir"
+msgstr "&Verifica els camins automàticament al diàleg d'obrir fitxers"
 
 msgid "Single instance mode:"
 msgstr "Mode de només una instància:"
@@ -1451,7 +1451,7 @@ msgid "Show \"Select Files or Folders\" dialog on startup"
 msgstr "Mostra el diàlec \"Selecciona fitxers o directoris\" a l'iniciar"
 
 msgid "Close \"Select Files or Folders\" dialog on clicking Compare button"
-msgstr "Tanca el diàlec \"Selecciona fitxers o directoris\" al fer clic en comparar"
+msgstr "Tanca el diàleg \"Selecciona fitxers o directoris\" al fer clic en comparar"
 
 #, c-format
 msgid "Op&en-dialog Auto-Completion:"
@@ -1582,7 +1582,7 @@ msgid "Substitution Filters"
 msgstr "Filtres de substitució"
 
 msgid "The changes that appear on the panels as the listed pairs below will be ignored or marked as insignificant. Patches are unaffected."
-msgstr "Els canvis que apareixen a les subfinestres com els parells llistats a continuació seran ignorats o marcats com insignificats. Els pedaços no es veuran afectats."
+msgstr "Els canvis que apareixen a les subfinestres com els parells llistats a continuació seran ignorats o marcats com insignificants. Els pedaços no es veuran afectats."
 
 msgid "Enable"
 msgstr "Habilita"
@@ -1745,7 +1745,7 @@ msgstr "Context:"
 
 #, c-format
 msgid "Inclu&de command line"
-msgstr "Inc&lou-hi la línia de comandes"
+msgstr "Inc&lou-hi la línia d'ordres"
 
 #, c-format
 msgid "Open to e&xternal editor"
@@ -1835,10 +1835,10 @@ msgid "Items compared:"
 msgstr "Elements comparats:"
 
 msgid "Go to"
-msgstr "Anar"
+msgstr "Ves a"
 
 msgid "G&o to:"
-msgstr "&Anar a:"
+msgstr "&Ves a:"
 
 #, c-format
 msgid "File"
@@ -1856,7 +1856,7 @@ msgid "&Difference"
 msgstr "&Diferència"
 
 msgid "&Go to"
-msgstr "&Vés-hi"
+msgstr "&Ves a"
 
 #, c-format
 msgid "Compare"
@@ -1904,7 +1904,7 @@ msgstr "&Ressalta la sintaxi"
 
 #, c-format
 msgid "&Preserve original EOL chars"
-msgstr "&Preserva els caracters de salt de línia originals"
+msgstr "&Preserva els caràcters de salt de línia originals"
 
 #, c-format
 msgid "Tabs"
@@ -2483,11 +2483,11 @@ msgstr ""
 
 #, c-format
 msgid "Include &unique subfolders contents"
-msgstr "Inclou el contingut de les carpetes que no estan a ambós costats"
+msgstr "Inclou el contingut de les carpetes que no estan als dos costats"
 
 #, c-format
 msgid "Ignore &reparse points"
-msgstr "Ignora els punts de &reparseig"
+msgstr "Ignora els punts de &reanàlisi"
 
 msgid "Threshold for switching to &quick compare (MB):"
 msgstr "Llindar per realitzar una comparació ràpida (MB):"
@@ -2539,7 +2539,7 @@ msgid "OCR result:"
 msgstr "Resultat OCR:"
 
 msgid "Webpage"
-msgstr ""
+msgstr "Pàgina web"
 
 msgid "URL pattern to &include (Regular expression):"
 msgstr ""
@@ -3027,7 +3027,7 @@ msgstr "Diferència %1 de %2"
 
 #, c-format
 msgid "%1 Differences Found"
-msgstr "S'han trobat %1 diferènces"
+msgstr "S'han trobat %1 diferències"
 
 #, c-format
 msgid "1 Difference Found"
@@ -3067,39 +3067,39 @@ msgstr "Selecciona dos (o tres) directoris o dos (o tres) fitxers per a comparar
 
 #, c-format
 msgid "Left (1st) path is invalid!"
-msgstr "Camí esquerra (1er) és invàlid!"
+msgstr "El camí de l'esquerra (1er) no és vàlid."
 
 #, c-format
 msgid "Middle (2nd) path is invalid!"
-msgstr "Camí del mig (2n) és invàlid!"
+msgstr "El camí del mig (2n) no és vàlid."
 
 #, c-format
 msgid "Right (2nd) path is invalid!"
-msgstr "Camí dreta (2n) és invàlid!"
+msgstr "El camí de la dreta (2n) no és vàlid."
 
 #, c-format
 msgid "Right (3rd) path is invalid!"
-msgstr "Camí dreta (3er) és invàlid!"
+msgstr "El camí de la dreta (3er) no és vàlid."
 
 #, c-format
 msgid "Both paths are invalid!"
-msgstr "Ambdós camins són invalids!"
+msgstr "Els dos camins no són vàlids."
 
 #, c-format
 msgid "Left (1st) and Middle (2nd) paths are invalid!"
-msgstr "Camí esquerra (1er) i mig (2n) són invàlids!"
+msgstr "Els camins de l'esquerra (1er) i del mig (2n) no són vàlids."
 
 #, c-format
 msgid "Left (1st) and Right (3rd) paths are invalid!"
-msgstr "Camí esquerra (1er) i dreta (3er) són invàlids!"
+msgstr "Els camins de l'esquerra (1er) i de la dreta (3er) no són vàlids."
 
 #, c-format
 msgid "Middle (2nd) and Right (3rd) paths are invalid!"
-msgstr "Camí mig (2er) i esquerra (3er) són invàlids!"
+msgstr "Els camins del mig (2on) i de l'esquerra (3er) no són vàlids."
 
 #, c-format
 msgid "All paths are invalid!"
-msgstr "Tots els camins són invalids!"
+msgstr "Tots els camins no són vàlids."
 
 msgid "Only enabled for file comparisons"
 msgstr "Només activat per a comparació de fitxers"
@@ -3130,7 +3130,7 @@ msgstr ""
 
 #, c-format
 msgid "Failed to parse conflict file."
-msgstr "No s'ha pogut interpretar el fitxer de conflicte."
+msgstr "No s'ha pogut interpretar el fitxer amb conflictes."
 
 #, c-format
 msgid ""
@@ -3140,7 +3140,7 @@ msgid ""
 msgstr ""
 "El fitxer\n"
 "%1\n"
-"no és un fitxer de conflicte."
+"no és un fitxer amb conflictes."
 
 msgid ""
 "You are about to compare very large files.\n"
@@ -3320,10 +3320,10 @@ msgid "Copy to &Middle\tAlt+Left"
 msgstr "Copia al mig\tAlt+Esquerra"
 
 msgid "Copy from Middle\tAlt+Shift+Right"
-msgstr "Copia des del mig\tAlt+Maj+Dreta"
+msgstr "Copia des del mig\tAlt+Màj.+Dreta"
 
 msgid "Copy from Middle\tAlt+Shift+Left"
-msgstr "Copia des del mig\tAlt+Maj+Esquerra"
+msgstr "Copia des del mig\tAlt+Màj.+Esquerra"
 
 msgid "Copy to Middle and Advance\tCtrl+Alt+Right"
 msgstr "Copia al mig i avança\tControl+Alt+Dreta"
@@ -3486,7 +3486,9 @@ msgstr "No s'ha pogut executar l'editor extern: %1"
 msgid "Unknown archive format"
 msgstr "El format de l'arxiu és desconegut"
 
-msgid "Failed to extract archive files.\nDo you want to compare the archive files as text files?"
+msgid ""
+"Failed to extract archive files.\n"
+"Do you want to compare the archive files as text files?"
 msgstr ""
 
 #, c-format
@@ -3645,7 +3647,7 @@ msgid "Move"
 msgstr "Mou"
 
 msgid "Audio"
-msgstr "Audio"
+msgstr "Àudio"
 
 msgid "Calendar"
 msgstr "Calendari"
@@ -3663,7 +3665,7 @@ msgid "Document"
 msgstr "Document"
 
 msgid "Home"
-msgstr ""
+msgstr "Inici"
 
 msgid "Journal"
 msgstr ""
@@ -3684,7 +3686,7 @@ msgid "Photo"
 msgstr "Foto"
 
 msgid "RecordedTV"
-msgstr "TVGravada"
+msgstr "RecordedTV"
 
 msgid "Search"
 msgstr "Cerca"
@@ -3788,7 +3790,7 @@ msgid " (Middle and right are identical)"
 msgstr " (Mig i dreta són idèntics)"
 
 msgid " (Left and right are identical)"
-msgstr " (Esquerra i dreta són identics)"
+msgstr " (Esquerra i dreta són idèntics)"
 
 msgid " (Left and middle are identical)"
 msgstr " (Esquerra i mig són idèntics)"
@@ -4019,7 +4021,7 @@ msgid ""
 msgstr ""
 "Els fitxers tenen tipus de salt de línia de diferents.\n"
 "\n"
-"Voleu tractar tots els salts de línia com a equivalents per a aquesta comparacio?\n"
+"Voleu tractar tots els salts de línia com a equivalents per a aquesta comparació?\n"
 "\n"
 "Nota: Si voleu tractar els salts de línia sempre com a equivalents, especifiqueu l'opció 'Ignora les diferències de salt de línia (Windows/Unix/Mac)' a la secció Comparació de la finestra d'opcions (disponible des del menú Edita/Opcions)."
 
@@ -4318,7 +4320,7 @@ msgid ""
 "Previous Conflict (Alt+Shift+Up)"
 msgstr ""
 "\n"
-"Conflicte anterior (Alt+Maj+Amunt)"
+"Conflicte anterior (Alt+Màj.+Amunt)"
 
 #, c-format
 msgid ""
@@ -4326,7 +4328,7 @@ msgid ""
 "Next Conflict (Alt+Shift+Down)"
 msgstr ""
 "\n"
-"Conflicte següent (Alt+Maj+Avall)"
+"Conflicte següent (Alt+Màj.+Avall)"
 
 #, c-format
 msgid ""
@@ -4435,7 +4437,7 @@ msgstr "El desempaquetador adaptat s'aplica a ambdós fitxers (només hi cal l'e
 
 #, c-format
 msgid "No prediffer (normal)"
-msgstr "Sense prediferencia (normal)"
+msgstr "Sense prediferència (normal)"
 
 #, c-format
 msgid "Suggested plugins"
@@ -4476,7 +4478,7 @@ msgid "G&o to Line %1"
 msgstr "Ves a la línia %1"
 
 msgid "Go to Moved Line\tCtrl+Shift+G"
-msgstr "Ves a la línia desplaçada\tControl+Maj+G"
+msgstr "Ves a la línia desplaçada\tControl+Màj.+G"
 
 #, c-format
 msgid "Disabled"
@@ -4496,7 +4498,7 @@ msgstr "Sense ressaltat"
 
 #, c-format
 msgid "Batch"
-msgstr "Seqüència de comandes"
+msgstr "Seqüència d'ordres"
 
 #, c-format
 msgid "Portable Object"
@@ -4508,7 +4510,7 @@ msgstr "Recursos"
 
 #, c-format
 msgid "Shell"
-msgstr "Finestra de comandes"
+msgstr "Finestra d'ordres"
 
 #, c-format
 msgid "Close &Left Tabs"
@@ -4527,7 +4529,7 @@ msgid "Enable &Auto Max Width"
 msgstr "Activa l'amplada màxima automàtica"
 
 msgid "We&bpage"
-msgstr ""
+msgstr "Pàgina &web"
 
 msgid "W&rap Text"
 msgstr ""
@@ -4872,7 +4874,7 @@ msgid "URL Handling"
 msgstr ""
 
 msgid "Make Uppercase"
-msgstr "Fes majúcules"
+msgstr "Fes majúscules"
 
 msgid "Make Lowercase"
 msgstr "Fes minúscules"
@@ -4887,7 +4889,7 @@ msgid "Sort Lines Ascending"
 msgstr "Ordena les línies ascendentment"
 
 msgid "Sort Lines Descending"
-msgstr "Ordena les línes descendentment"
+msgstr "Ordena les línies descendentment"
 
 msgid "Reverse Columns"
 msgstr "Capgira les columnes"
@@ -4899,7 +4901,7 @@ msgid "Replace..."
 msgstr "Substitueix..."
 
 msgid "Apply Filter Command..."
-msgstr "Aplica la comanda de filtre..."
+msgstr "Aplica l'ordre de filtre..."
 
 msgid "Tokenize..."
 msgstr "Tokenitzar..."
@@ -4938,7 +4940,7 @@ msgid "Ignore Leading Line Numbers"
 msgstr ""
 
 msgid "Apply Prediff Substitution Filters"
-msgstr "Aplíca els filtres de substitució de la prediferenciació"
+msgstr "Aplica els filtres de substitució de la prediferenciació"
 
 msgid "Prettify HTML"
 msgstr "Embelleix HTML"
@@ -4977,13 +4979,13 @@ msgid "Validate HTML"
 msgstr "Valida HTML"
 
 msgid "Disassemble JVM Bytecode"
-msgstr "Desensambla Bytecode JVM"
+msgstr "Desassembla Bytecode JVM"
 
 msgid "Disassemble IL Code"
-msgstr "Desensambla Codi IL"
+msgstr "Desassembla codi IL"
 
 msgid "Disassemble Native Code"
-msgstr "Desensambla Codi Nadiu"
+msgstr "Desassembla codi nadiu"
 
 msgid "Make characters uppercase"
 msgstr "Converteix els caràcters a majúscules"
@@ -5009,7 +5011,15 @@ msgstr "Capgira les columnes"
 msgid "Reverse lines"
 msgstr "Capgira les línies"
 
-msgid "Replace text with another text.\r\nUsage: Replace [-i] [-e] FIND REPLACE\r\n   or: Replace -s\r\n  FIND    - text to find\r\n  REPLACE - text to replace\r\n  -i - ignore case (only for -e)\r\n  -e - treat the specified text as a regular expression\r\n  -s - replace using Substitution Filters patterns"
+msgid ""
+"Replace text with another text.\r\n"
+"Usage: Replace [-i] [-e] FIND REPLACE\r\n"
+"   or: Replace -s\r\n"
+"  FIND    - text to find\r\n"
+"  REPLACE - text to replace\r\n"
+"  -i - ignore case (only for -e)\r\n"
+"  -e - treat the specified text as a regular expression\r\n"
+"  -s - replace using Substitution Filters patterns"
 msgstr ""
 "Reemplaça el text amb un altre text.\r\n"
 "Ús: Replace [-i] [-e] TROBA REEMPLAÇA\r\n"
@@ -5026,9 +5036,9 @@ msgid ""
 "Usage: ExecFilterCommand COMMAND\r\n"
 "  COMMAND - command to execute. %1 in the command is replaced with the filename."
 msgstr ""
-"Aplica la comanda de filtre.\r\n"
-"Ús: ExecFilterCommand COMANDA\r\n"
-" COMMANDA - comanda a executar. El text %1 a la comanda es reemplaça amb el nom del fitxer."
+"Aplica l'ordre de filtre.\r\n"
+"Ús: ExecFilterCommand ORDRE\r\n"
+" ORDRE - ordre a executar. El text %1 a l'ordre es reemplaça amb el nom del fitxer."
 
 msgid ""
 "Tokenize selection. \r\n"
@@ -5086,104 +5096,110 @@ msgid ""
 "HTML Prettier with tidy-html5. \r\n"
 "Arguments: Command line options passed to the tidy command."
 msgstr ""
-"Embellidor de format HTML amb la comanda tidy-html5.\n"
-"Arguments: Línia de comandes a utilitzar amb la comanda tidy."
+"Embellidor de format HTML amb l'ordre tidy-html5.\n"
+"Arguments: Línia d'ordres a utilitzar amb l'ordre tidy."
 
 msgid ""
 "JSON Prettier with jq command. \r\n"
 "Arguments: Filter or command line options passed to the jq command."
 msgstr ""
-"Embellidor de format JSON amb la comanda jq.\n"
-"Arguments: Filtre o línia de comandes a utilitzar amb la comanda jq."
+"Embellidor de format JSON amb l'ordre jq.\n"
+"Arguments: Filtre o línia d'ordres a utilitzar amb l'ordre jq."
 
 msgid ""
 "XML Prettier with tidy-html5. \r\n"
 "Arguments: Command line options passed to the tidy command."
 msgstr ""
-"Embellidor de format XML amb la comanda tidy-html5.\n"
-"Arguments: Línia de comandes a utilitzar amb la comanda tidy."
+"Embellidor de format XML amb l'ordre tidy-html5.\n"
+"Arguments: Línia d'ordres a utilitzar amb l'ordre tidy."
 
 msgid ""
 "YAML Prettier with yq command. \r\n"
 "Arguments: Filter or command line options passed to the yq command."
 msgstr ""
-"Embellidor de format YAML amb la comanda yq.\n"
-"Arguments: Filtre o línia de comandes a utilitzar amb la comanda yq."
+"Embellidor de format YAML amb l'ordre yq.\n"
+"Arguments: Filtre o línia d'ordres a utilitzar amb l'ordre yq."
 
-msgid "Graphviz Previewer. \r\nArguments: Command line options passed to the dot command."
+msgid ""
+"Graphviz Previewer. \r\n"
+"Arguments: Command line options passed to the dot command."
 msgstr ""
 
-msgid "Markdown Previewer. \r\nArguments: Command line options passed to the md2html command."
+msgid ""
+"Markdown Previewer. \r\n"
+"Arguments: Command line options passed to the md2html command."
 msgstr ""
 
-msgid "PlantUML Previewer. \r\nArguments: Command line options passed to the plantuml.jar command."
+msgid ""
+"PlantUML Previewer. \r\n"
+"Arguments: Command line options passed to the plantuml.jar command."
 msgstr ""
 
 msgid ""
 "CSV Querier with q command. \r\n"
 "Arguments: SQL statement or command line options passed to the q command."
 msgstr ""
-"Consulta de dades en format CSV amb la comanda q.\r\n"
-"Arguments: Sentència SQL o línia de comandes a utilitzar amb la comanda q."
+"Consulta de dades en format CSV amb l'ordre q.\r\n"
+"Arguments: Sentència SQL o línia d'ordres a utilitzar amb l'ordre q."
 
 msgid ""
 "TSV Querier with q command. \r\n"
 "Arguments: SQL statement or command line options passed to the q command."
 msgstr ""
-"Consulta de dades en format TSV amb la comanda q.\r\n"
-"Arguments: Sentència SQL o línia de comandes a utilitzar amb la comanda q."
+"Consulta de dades en format TSV amb l'ordre q.\r\n"
+"Arguments: Sentència SQL o línia d'ordres a utilitzar amb l'ordre q."
 
 msgid ""
 "JSON Querier with jq command. \r\n"
 "Arguments: Filter or command line options passed to the jq command."
 msgstr ""
-"Consulta de dades de JSON amb la comanda jq.\r\n"
-"Arguments: Filtre o línia de comandes a utilitzar amb la comanda jq."
+"Consulta de dades de JSON amb l'ordre jq.\r\n"
+"Arguments: Filtre o línia d'ordres a utilitzar amb l'ordre jq."
 
 msgid ""
 "YAML Querier with yq command. \r\n"
 "Arguments: Filter or command line options passed to the yq command."
 msgstr ""
-"Consulta de dades de YAML amb la comanda yq.\r\n"
-"Arguments: Filtre o línia de comandes a utilitzar amb la comanda yq."
+"Consulta de dades de YAML amb l'ordre yq.\r\n"
+"Arguments: Filtre o línia d'ordres a utilitzar amb l'ordre yq."
 
 msgid ""
 "HTML Validator with tidy-html5. \r\n"
 "Arguments: Command line options passed to the tidy command."
 msgstr ""
 "Validador HTML amb tidy-html5.\r\n"
-"Arguments: La línia de comandes a utilitzar amb la comanda tidy."
+"Arguments: La línia d'ordres a utilitzar amb l'ordre tidy."
 
 msgid ""
 "JVM bytecode disassembler with javap. \r\n"
 "Arguments: Command line options passed to the javap command."
 msgstr ""
-"Desensamblador de bytecode JVM amb javap.\r\n"
-"Arguments: La línia de comandes a utilitzar amb la comanda javap."
+"Desassemblador de bytecode JVM amb javap. \r\n"
+"Arguments: La línia d'ordres a utilitzar amb l'ordre javap."
 
 msgid ""
 "IL disassembler with ildasm. \r\n"
 "Arguments: Command line options passed to the ildasm command."
 msgstr ""
-"Desensamblador de IL amb el idlasm.\r\n"
-"Arguments: La línia de comandes a utilitzar amb la comanda ildasm."
+"Desassemblador de IL amb el idlasm. \r\n"
+"Arguments: La línia d'ordres a utilitzar amb l'ordre ildasm."
 
 msgid ""
 "Native code disassembler with dumpbin. \r\n"
 "Arguments: Command line options passed to the dumpbin command."
 msgstr ""
-"Desensamblador de codi natiu amb el dumpbin.\r\n"
-"Arguments: La línia de comandes a utilitzar amb la comanda dumpbin."
+"Desassemblador de codi natiu amb el dumpbin. \r\n"
+"Arguments: La línia d'ordres a utilitzar amb l'ordre dumpbin."
 
 msgid ""
 "General content extractor with Apache Tika. \r\n"
 "Arguments: Command line options passed to the tika-app.jar."
 msgstr ""
 "Extractor de contingut genèric amb Apache Tika.\r\n"
-"Arguments: La línia de comandes a utilitzar amb el tika-app.jar."
+"Arguments: La línia d'ordres a utilitzar amb el tika-app.jar."
 
 msgid "Apply patch using GNU patch"
-msgstr ""
+msgstr "Aplica el pedaç fent servir GNU patch"
 
 msgid "Display the text content of MS Excel files"
 msgstr "Mostra el contingut de text dels fitxers de MS Excel"
@@ -5215,10 +5231,14 @@ msgstr "Filtre de línia per prediferenciació"
 msgid "Basic text functions for the context menu"
 msgstr "Funcions de text bàsic pel menú contextual"
 
-msgid "HTTP URL Scheme Handler with curl. \r\nArguments: Command line options passed to the curl command."
+msgid ""
+"HTTP URL Scheme Handler with curl. \r\n"
+"Arguments: Command line options passed to the curl command."
 msgstr ""
 
-msgid "Windows Registry URL Scheme Handler. \r\nArguments: Command line options passed to the reg.exe command."
+msgid ""
+"Windows Registry URL Scheme Handler. \r\n"
+"Arguments: Command line options passed to the reg.exe command."
 msgstr ""
 
 msgid "CompareMSExcelFiles.sct WinMerge Plugin Options"
@@ -5257,7 +5277,10 @@ msgstr ""
 msgid "Compare headers and footers"
 msgstr ""
 
-msgid "Cannot get Macros.\r\n   To allow WinMerge to compare macros, use MS Office to alter the settings in the Macro Security for the current application.\r\n   The Trust access to Visual Basic Project feature should be turned on to use this feature in WinMerge.\r\n"
+msgid ""
+"Cannot get Macros.\r\n"
+"   To allow WinMerge to compare macros, use MS Office to alter the settings in the Macro Security for the current application.\r\n"
+"   The Trust access to Visual Basic Project feature should be turned on to use this feature in WinMerge.\r\n"
 msgstr ""
 
 msgid "Compare VBA macros"
@@ -5318,12 +5341,14 @@ msgid "Find what"
 msgstr ""
 
 msgid "Replace with"
-msgstr ""
+msgstr "Substitueix-ho per:"
 
 msgid "Settings"
 msgstr ""
 
-msgid "Column Ranges To Ignore:\ne.g.)  3,10-20,32-33\n"
+msgid ""
+"Column Ranges To Ignore:\n"
+"e.g.)  3,10-20,32-33\n"
 msgstr ""
 
 #, c-format
@@ -5335,7 +5360,7 @@ msgid "File '%1' does not exist"
 msgstr ""
 
 msgid "Enter the command line arguments for patch command"
-msgstr ""
+msgstr "Introduïu els arguments de la línia d'ordres per l'ordre patch"
 
 #, c-format
 msgid "Enter the name of the folder to which the patch '%1' will be applied"
