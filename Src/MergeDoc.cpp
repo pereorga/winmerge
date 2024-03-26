@@ -3210,7 +3210,7 @@ bool CMergeDoc::GenerateReport(const String& sFileName) const
 			_T("tr:first-child { position: sticky; top: 0; z-index: 99; }\n")
 			_T("td,th { word-break: break-all; padding: 0 3px; border: 1px solid #a0a0a0; }\n")
 			_T(".ln { position: sticky; left: 0; }\n")
-			_T(".title { font-weight: bold; color: white; background-color: blue; vertical-align: top; text-align: center; padding: 4px 4px; background: linear-gradient(mediumblue, darkblue);}\n")
+			_T(".title { font-weight: bold; color: white; vertical-align: top; text-align: center; padding: 4px 4px; background: linear-gradient(mediumblue, darkblue);}\n")
 			_T("%s")
 			_T("-->\n")
 			_T("</style>\n")
@@ -3342,7 +3342,7 @@ bool CMergeDoc::GenerateReport(const String& sFileName) const
 			_T("th { position: sticky; top: 0; }\n")
 			_T("td,th { word-break: break-all; font-size: %dpt; padding: 0 3px; }\n")
 			_T("tr { vertical-align: top; }\n")
-			_T(".title { font-weight: bold; color: white; background-color: blue; vertical-align: top; text-align: center; padding: 4px 4px; background: linear-gradient(mediumblue, darkblue);}\n")
+			_T(".title { font-weight: bold; color: white; vertical-align: top; text-align: center; padding: 4px 4px; background: linear-gradient(mediumblue, darkblue);}\n")
 			_T("%s")
 			_T("-->\n")
 			_T("</style>\n")
@@ -3353,7 +3353,7 @@ bool CMergeDoc::GenerateReport(const String& sFileName) const
 
 		file.WriteString(
 			_T("<body>\n")
-			_T("<table style=\"width: 100%%; border-collapse: collapse;\">\n")
+			_T("<table style=\"width: 100%; border-collapse: collapse;\">\n")
 			_T("<colgroup>\n"));
 		double marginWidth = m_pView[0][0]->GetViewLineNumbers() ?
 			strutils::to_str(m_pView[0][0]->GetLineCount()).length() / 1.5 + 0.5 : 0.5;
