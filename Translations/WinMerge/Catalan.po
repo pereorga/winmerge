@@ -69,7 +69,7 @@ msgid "Add this change to Substitution &Filters"
 msgstr "Afegeix aquest canvi als F&iltres de substitució"
 
 msgid "Add to &Line Filters"
-msgstr ""
+msgstr "Afegeix als filtres de línia"
 
 #, c-format
 msgid "&Undo"
@@ -128,7 +128,7 @@ msgid "S&hell Menu"
 msgstr "Menú de &Sistema"
 
 msgid "Use First Line as Headers"
-msgstr ""
+msgstr "Fes servir la primera línia com a capçalera"
 
 msgid "Auto-Fit All Columns"
 msgstr ""
@@ -250,40 +250,40 @@ msgid "Co&mpare"
 msgstr "Co&mpara"
 
 msgid "&Screenshots"
-msgstr ""
+msgstr "&Captures de pantalla"
 
 msgid "&Full Size Screenshots"
-msgstr ""
+msgstr "C&aptures de la pantalla completa"
 
 msgid "&HTMLs"
 msgstr "&HTMLs"
 
 msgid "&Texts"
-msgstr ""
+msgstr "&Textos"
 
 msgid "&Resource Trees"
 msgstr ""
 
 msgid "&Size"
-msgstr ""
+msgstr "&Mida"
 
 msgid "Fit to Window"
-msgstr ""
+msgstr "Ajusta a la finestra"
 
 msgid "&Event Sync"
 msgstr ""
 
 msgid "&Enabled"
-msgstr ""
+msgstr "&Activat"
 
 msgid "&Scroll"
-msgstr ""
+msgstr "&Desplaçament"
 
 msgid "&Click"
-msgstr ""
+msgstr "&Clic"
 
 msgid "&Input"
-msgstr ""
+msgstr "&Entrada"
 
 msgid "&GoBack/Forward"
 msgstr ""
@@ -295,13 +295,13 @@ msgid "&Disk Cache"
 msgstr "Memòria cau del &disc"
 
 msgid "&Cookies"
-msgstr ""
+msgstr "&Galetes"
 
 msgid "&Browsing History"
-msgstr ""
+msgstr "&Historial de navegació"
 
 msgid "&All Profile"
-msgstr ""
+msgstr "&Tots els perfils"
 
 #, c-format
 msgid "&File"
@@ -583,13 +583,13 @@ msgid "Tree &Mode"
 msgstr "&Mode d'arbre"
 
 msgid "E&xpand Subfolders"
-msgstr ""
+msgstr "E&xpandeix les subcarpetes"
 
 msgid "&All Subfolders"
-msgstr ""
+msgstr "&Totes les subcarpetes"
 
 msgid "&Different Subfolders"
-msgstr ""
+msgstr "Subcarpetes &diferents"
 
 msgid "&Identical Subfolders"
 msgstr "Subcarpetes &idèntiques"
@@ -866,7 +866,7 @@ msgid "View &Margins"
 msgstr "Mostra els &marges"
 
 msgid "View To&p Margins"
-msgstr ""
+msgstr "Mostra els marges &superiors"
 
 #, c-format
 msgid "W&rap Lines"
@@ -1165,7 +1165,7 @@ msgid "Copy Items To Clip&board"
 msgstr "Copia els elements al porta-re&talls"
 
 msgid "Copy All Di&splayed Columns"
-msgstr ""
+msgstr "Copia totes les columne&s visualitzades"
 
 #, c-format
 msgid "&Zip"
@@ -1214,10 +1214,10 @@ msgid "Copy &Filename"
 msgstr "Copia el nom del &fitxer"
 
 msgid "&Edit Caption"
-msgstr ""
+msgstr "&Edita la llegenda"
 
 msgid "&Open..."
-msgstr ""
+msgstr "&Obre..."
 
 msgid "Unpacker Settings"
 msgstr "Opcions del desempaquetador"
@@ -1395,7 +1395,7 @@ msgid " Folder: Filter"
 msgstr " Carpeta: Filtre"
 
 msgid " File: Prediffer Plugin"
-msgstr ""
+msgstr " Fitxer: Connector Prediffer"
 
 #, c-format
 msgid " File: Unpacker Plugin"
@@ -1458,7 +1458,7 @@ msgid "Op&en-dialog Auto-Completion:"
 msgstr "Autocompletar al diàleg d'obrir:"
 
 msgid "Auto-&reload modified files:"
-msgstr ""
+msgstr "&Recarrega automàticament els fitxers modificats:"
 
 #, c-format
 msgid "Language:"
@@ -1824,7 +1824,7 @@ msgid "Continue"
 msgstr "Continua"
 
 msgid "&Number of CPU cores to use:"
-msgstr ""
+msgstr "&Nombre de nuclis CPU a utilitzar:"
 
 #, c-format
 msgid "Items total:"
@@ -2555,31 +2555,31 @@ msgstr ""
 
 #, c-format
 msgid "&Hex View"
-msgstr "Vista Hexadecimal"
+msgstr "Vista &Hexadecimal"
 
 #, c-format
 msgid "EXT"
-msgstr ""
+msgstr "EXT"
 
 #, c-format
 msgid "CAP"
-msgstr ""
+msgstr "CAP"
 
 #, c-format
 msgid "NUM"
-msgstr ""
+msgstr "NUM"
 
 #, c-format
 msgid "SCRL"
-msgstr ""
+msgstr "SCRL"
 
 #, c-format
 msgid "OVR"
-msgstr ""
+msgstr "OVR"
 
 #, c-format
 msgid "REC"
-msgstr ""
+msgstr "REC"
 
 #, c-format
 msgid ""
@@ -2713,7 +2713,7 @@ msgid "To make this message box visible again, press the Reset button on the Mes
 msgstr "Per fer que aquest quadre de missatge es mostri de nou, premeu el botó Reinicialitza a la secció Quadres de missatges a la finestra d'Opcions."
 
 msgid "Compare/Merge"
-msgstr ""
+msgstr "Compara/fusiona"
 
 #, c-format
 msgid "Syntax"
@@ -2820,16 +2820,16 @@ msgid "XML Files (*.xml)|*.xml|All Files (*.*)|*.*||"
 msgstr "Fitxers XML (*.xml)|*.xml|Tots els fitxers (*.*)|*.*||"
 
 msgid "Do not expand"
-msgstr ""
+msgstr "No expandeixis"
 
 msgid "Expand all subfolders"
-msgstr ""
+msgstr "Expandeix totes les subcarpetes"
 
 msgid "Expand different subfolders"
-msgstr ""
+msgstr "Expandeix les subcarpetes diferents"
 
 msgid "Expand identical subfolders"
-msgstr ""
+msgstr "Expandeix les subcarpetes idèntiques"
 
 msgid "File Type"
 msgstr "Tipus de fitxer"
@@ -3099,7 +3099,7 @@ msgstr "Els camins del mig (2on) i de l'esquerra (3er) no són vàlids."
 
 #, c-format
 msgid "All paths are invalid!"
-msgstr "Tots els camins no són vàlids."
+msgstr "No hi ha cap camí que sigui vàlid."
 
 msgid "Only enabled for file comparisons"
 msgstr "Només activat per a comparació de fitxers"
@@ -3668,7 +3668,7 @@ msgid "Home"
 msgstr "Inici"
 
 msgid "Journal"
-msgstr ""
+msgstr "Diari"
 
 msgid "Link"
 msgstr "Enllaç"
@@ -3704,7 +3704,7 @@ msgid "Video"
 msgstr "Vídeo"
 
 msgid "Hash"
-msgstr ""
+msgstr "Resum"
 
 #, c-format
 msgid "Unable to compare files"
@@ -4724,10 +4724,10 @@ msgid "Word-by-word position and text"
 msgstr "Posició paraula a paraula i text"
 
 msgid "AppData folder"
-msgstr ""
+msgstr "Carpeta AppData"
 
 msgid "Install folder"
-msgstr ""
+msgstr "Carpeta d'instal·lació"
 
 #, c-format
 msgid "Allow only one instance to run"
@@ -4737,10 +4737,10 @@ msgid "Allow only one instance to run and wait for the instance to terminate"
 msgstr "Permet d'executar només una instància i espera que la instància acabi"
 
 msgid "Only on window activated"
-msgstr ""
+msgstr "Només a la finestra activada"
 
 msgid "Immediately"
-msgstr ""
+msgstr "Immediatament"
 
 msgid "Al&l"
 msgstr "Tot"
@@ -4847,10 +4847,10 @@ msgid "Inline diff"
 msgstr ""
 
 msgid "Line"
-msgstr ""
+msgstr "Línia"
 
 msgid "Character"
-msgstr ""
+msgstr "Caràcter"
 
 msgid "Prettification"
 msgstr "Embellir"
@@ -4859,7 +4859,7 @@ msgid "Content Extraction"
 msgstr "Extracció del contingut"
 
 msgid "Preview"
-msgstr ""
+msgstr "Vista prèvia"
 
 msgid "Data Query"
 msgstr "Consulta de dades"
@@ -4871,7 +4871,7 @@ msgid "Decompilation"
 msgstr "Decompilació"
 
 msgid "URL Handling"
-msgstr ""
+msgstr "Gestió d’URLs"
 
 msgid "Make Uppercase"
 msgstr "Fes majúscules"
@@ -4937,7 +4937,7 @@ msgid "Ignore TSV Fields"
 msgstr "Ignora els camps TSV"
 
 msgid "Ignore Leading Line Numbers"
-msgstr ""
+msgstr "Ignora els números de línia inicial"
 
 msgid "Apply Prediff Substitution Filters"
 msgstr "Aplica els filtres de substitució de la prediferenciació"
@@ -4955,13 +4955,13 @@ msgid "Prettify YAML"
 msgstr "Embelleix YAML"
 
 msgid "Preview Graphviz"
-msgstr ""
+msgstr "Vista prèvia de Graphviz"
 
 msgid "Preview Markdown"
-msgstr ""
+msgstr "Vista prèvia de Markdown"
 
 msgid "Preview PlantUML"
-msgstr ""
+msgstr "Vista prèvia de PlantUML"
 
 msgid "Query CSV Data..."
 msgstr "Consulta dades en CSV..."
@@ -5124,16 +5124,22 @@ msgid ""
 "Graphviz Previewer. \r\n"
 "Arguments: Command line options passed to the dot command."
 msgstr ""
+"Previsualitzador de Graphviz.\r\n"
+"Arguments: les opcions de la línia d'ordres passats a l'ordre dot."
 
 msgid ""
 "Markdown Previewer. \r\n"
 "Arguments: Command line options passed to the md2html command."
 msgstr ""
+"Previsualitzador de Markdown.\r\n"
+"Arguments: les opcions de la línia d'ordres passats a l'ordre md2html."
 
 msgid ""
 "PlantUML Previewer. \r\n"
 "Arguments: Command line options passed to the plantuml.jar command."
 msgstr ""
+"Previsualitzador de PlantUML.\r\n"
+"Arguments: les opcions de la línia d’ordres passats a l'ordre plantuml.jar."
 
 msgid ""
 "CSV Querier with q command. \r\n"
@@ -5326,25 +5332,25 @@ msgid "PrediffLineFilter.sct WinMerge Plugin Options"
 msgstr ""
 
 msgid "Delete"
-msgstr ""
+msgstr "Suprimeix"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Activat"
 
 msgid "Ignore Case"
-msgstr ""
+msgstr "Ignora diferències entre majúscules i minúscules"
 
 msgid "Use RegExp"
-msgstr ""
+msgstr "Utilitza RegExp"
 
 msgid "Find what"
-msgstr ""
+msgstr "Cerca això"
 
 msgid "Replace with"
-msgstr "Substitueix-ho per:"
+msgstr "Substitueix-ho per"
 
 msgid "Settings"
-msgstr ""
+msgstr "Configuració"
 
 msgid ""
 "Column Ranges To Ignore:\n"
