@@ -1022,10 +1022,10 @@ msgid "&Transform with editor script..."
 msgstr "Transforma amb un script de l'editor..."
 
 msgid "Scripts for &copying"
-msgstr ""
+msgstr "Scripts per &copiar"
 
 msgid "Select &editor script..."
-msgstr ""
+msgstr "Selecciona l'script &editor..."
 
 #, c-format
 msgid "Sp&lit"
@@ -3488,7 +3488,7 @@ msgid "You are about to close the window that is comparing folders. Are you sure
 msgstr "Esteu a punt de tancar la finestra que compara els directoris. Esteu segurs de tancar la finestra?"
 
 msgid "You are about to close the folder comparison window that took a significant amount of time. Are you sure you want to close the window?"
-msgstr ""
+msgstr "Esteu a punt de tancar la finestra de comparació de carpetes que ha trigat molt de temps. Esteu segur que voleu tancar la finestra?"
 
 msgid "The file or folder name is invalid."
 msgstr "El nom del fitxer o de la carpeta no és vàlid."
@@ -4790,7 +4790,7 @@ msgstr "'%1' no és un connector de prediferència"
 
 #, c-format
 msgid "An error occurred while prediffing the file '%1' with the plugin '%2'. The prediffing is not applied any more."
-msgstr ""
+msgstr "S'ha produït un error en veure les prediferències del fitxer '%1' amb el connector '%2'. La prediferència ja no s'aplica."
 
 msgid "Filter applied"
 msgstr "Filtre aplicat"
@@ -4813,55 +4813,55 @@ msgid "The 32-bit version of WinMerge does not support Clipboard Compare"
 msgstr "La versió de 32 bits del WinMerge no suporta comparar via porta-retalls"
 
 msgid "WebView2 runtime is not installed. Do you want to download it?"
-msgstr ""
+msgstr "L'entorn d'execució WebView2 no està instal·lat. El voleu descarregar?"
 
 msgid "New Text Compare"
-msgstr ""
+msgstr "Nova comparació de text"
 
 msgid "New Table Compare"
-msgstr ""
+msgstr "Nova comparació de taules"
 
 msgid "New Binary Compare"
-msgstr ""
+msgstr "Nova comparació binària"
 
 msgid "New Image Compare"
-msgstr ""
+msgstr "Nova comparació d'imatges"
 
 msgid "New Webpage Compare"
-msgstr ""
+msgstr "Nova comparació de pàgines web"
 
 msgid "Clipboard Compare"
-msgstr ""
+msgstr "Comparació del porta-retalls"
 
 msgid "&Print..."
-msgstr ""
+msgstr "&Imprimeix..."
 
 msgid "Pre&v Page"
-msgstr ""
+msgstr "Pàgina &anterior"
 
 msgid "&Two Page"
-msgstr ""
+msgstr "&Dues pàgines"
 
 msgid "&One Page"
-msgstr ""
+msgstr "&Una pàgina"
 
 msgid "Zoom &In"
-msgstr ""
+msgstr "A&propa"
 
 msgid "Zoom &Out"
-msgstr ""
+msgstr "All&unya"
 
 msgid "Comparing..."
-msgstr ""
+msgstr "Comparant..."
 
 msgid "Zoom:"
-msgstr ""
+msgstr "Zoom:"
 
 msgid "Diff hunk"
-msgstr ""
+msgstr "Tros de diferència"
 
 msgid "Inline diff"
-msgstr ""
+msgstr "Diferència en línia"
 
 msgid "Line"
 msgstr "Línia"
@@ -5309,6 +5309,9 @@ msgid ""
 "   To allow WinMerge to compare macros, use MS Office to alter the settings in the Macro Security for the current application.\r\n"
 "   The Trust access to Visual Basic Project feature should be turned on to use this feature in WinMerge.\r\n"
 msgstr ""
+"No s'han pogut obtenir les macros.\r\n"
+"   Per permetre que WinMerge compari macros, utilitzeu MS Office per modificar la configuració de seguretat de les macros per a l'aplicació actual.\r\n"
+"   La funció de confiar en el projecte de Visual Basic s'ha d'activar per utilitzar aquesta funció al WinMerge.\r\n"
 
 msgid "Compare VBA macros"
 msgstr "Compara les macros VBA"
